@@ -7,4 +7,4 @@
 ### Goblin with name Tragz, weapon Axe, ability "Break Bones"
 ### Knight with Roland, weapon sword, ability "Slay Dragons"
 
-### Use you imagination and have fun with you own creations :) 
+### Use you imagination and have fun with your own creations :) 
